@@ -28,7 +28,7 @@ Grab the latest Windows build from the [Releases page](../../releases/latest), u
 | Action | Key |
 |---|---|
 | Move | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> or arrow keys |
-| Dash (short burst of speed) | check `PlayerController.cs` — typically <kbd>Shift</kbd> or <kbd>Space</kbd> |
+| Dash (short burst of speed) | <kbd>Shift</kbd> |
 | Select answer | walk onto the A/B/C/D tile |
 | Pause | <kbd>P</kbd> |
 | Reset (after game over) | <kbd>R</kbd>, or the Reset button bottom-right |
