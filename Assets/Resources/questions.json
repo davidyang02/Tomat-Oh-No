@@ -1,0 +1,305 @@
+{
+  "questions": [
+    {
+      "question": "What planet is closest to the Sun?",
+      "answers": ["Venus", "Mercury", "Mars", "Earth"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": ["London", "Berlin", "Paris", "Madrid"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 1
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "answers": ["5", "6", "7", "8"],
+      "correctIndex": 1,
+      "category": "Math",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answers": ["CO2", "H2O", "NaCl", "O2"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 1
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": ["Jupiter", "Saturn", "Mars", "Venus"],
+      "correctIndex": 2,
+      "category": "Science",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answers": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 1
+    },
+    {
+      "question": "How many continents are there?",
+      "answers": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "answers": ["0", "1", "2", "3"],
+      "correctIndex": 2,
+      "category": "Math",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answers": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correctIndex": 2,
+      "category": "Science",
+      "difficulty": 1
+    },
+    {
+      "question": "How many players are on a soccer team?",
+      "answers": ["9", "10", "11", "12"],
+      "correctIndex": 2,
+      "category": "Sports",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answers": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 1
+    },
+    {
+      "question": "What year did World War II end?",
+      "answers": ["1943", "1944", "1945", "1946"],
+      "correctIndex": 2,
+      "category": "History",
+      "difficulty": 2
+    },
+    {
+      "question": "Which continent is the Sahara Desert on?",
+      "answers": ["Asia", "South America", "Africa", "Australia"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": ["Michelangelo", "Van Gogh", "Da Vinci", "Picasso"],
+      "correctIndex": 2,
+      "category": "Art",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correctIndex": 3,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": "Who wrote Romeo and Juliet?",
+      "answers": ["Dickens", "Shakespeare", "Austen", "Hemingway"],
+      "correctIndex": 1,
+      "category": "Art",
+      "difficulty": 2
+    },
+    {
+      "question": "What does CPU stand for?",
+      "answers": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Core Processing Unit"],
+      "correctIndex": 1,
+      "category": "Technology",
+      "difficulty": 2
+    },
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "answers": ["Tiger", "Elephant", "Lion", "Gorilla"],
+      "correctIndex": 2,
+      "category": "Nature",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "answers": ["90°C", "100°C", "110°C", "120°C"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 2
+    },
+    {
+      "question": "Who was the first person to walk on the Moon?",
+      "answers": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+      "correctIndex": 2,
+      "category": "History",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "answers": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the value of Pi to two decimal places?",
+      "answers": ["3.12", "3.14", "3.16", "3.18"],
+      "correctIndex": 1,
+      "category": "Math",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the square root of 144?",
+      "answers": ["10", "11", "12", "14"],
+      "correctIndex": 2,
+      "category": "Math",
+      "difficulty": 3
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctIndex": 2,
+      "category": "Science",
+      "difficulty": 3
+    },
+    {
+      "question": "In what year was the first iPhone released?",
+      "answers": ["2005", "2006", "2007", "2008"],
+      "correctIndex": 2,
+      "category": "Technology",
+      "difficulty": 3
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "answers": ["186", "206", "226", "256"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answers": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "correctIndex": 1,
+      "category": "Geography",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answers": ["Go", "Gd", "Au", "Ag"],
+      "correctIndex": 2,
+      "category": "Science",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "answers": ["China", "Brazil", "UK", "Japan"],
+      "correctIndex": 1,
+      "category": "Sports",
+      "difficulty": 3
+    },
+    {
+      "question": "What year did the Titanic sink?",
+      "answers": ["1910", "1911", "1912", "1913"],
+      "correctIndex": 2,
+      "category": "History",
+      "difficulty": 3
+    },
+    {
+      "question": "What programming language is Unity built on?",
+      "answers": ["Java", "Python", "C#", "C++"],
+      "correctIndex": 2,
+      "category": "Technology",
+      "difficulty": 3
+    },
+    {
+      "question": "Who discovered gravity?",
+      "answers": ["Einstein", "Newton", "Galileo", "Tesla"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answers": ["Elephant", "Blue Whale", "Giraffe", "Hippo"],
+      "correctIndex": 1,
+      "category": "Nature",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the speed of light in km/s (approximately)?",
+      "answers": ["100,000", "200,000", "300,000", "400,000"],
+      "correctIndex": 2,
+      "category": "Science",
+      "difficulty": 4
+    },
+    {
+      "question": "What does DNA stand for?",
+      "answers": ["Deoxyribonucleic Acid", "Dinitrogen Acid", "Dynamic Neural Array", "Digital Network Access"],
+      "correctIndex": 0,
+      "category": "Science",
+      "difficulty": 4
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "answers": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the freezing point of water in Fahrenheit?",
+      "answers": ["0°F", "32°F", "100°F", "212°F"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 4
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answers": ["China", "South Korea", "Japan", "Thailand"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 4
+    },
+    {
+      "question": "What is 15 × 15?",
+      "answers": ["200", "215", "225", "250"],
+      "correctIndex": 2,
+      "category": "Math",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answers": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correctIndex": 2,
+      "category": "Geography",
+      "difficulty": 4
+    },
+    {
+      "question": "What sport is played at Wimbledon?",
+      "answers": ["Golf", "Cricket", "Tennis", "Football"],
+      "correctIndex": 2,
+      "category": "Sports",
+      "difficulty": 4
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "answers": ["HyperText Transfer Protocol", "High Tech Transfer Program", "HyperText Transmission Process", "Home Terminal Transfer Protocol"],
+      "correctIndex": 0,
+      "category": "Technology",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "correctIndex": 1,
+      "category": "Science",
+      "difficulty": 4
+    }
+  ]
+}
