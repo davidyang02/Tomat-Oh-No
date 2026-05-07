@@ -1,6 +1,8 @@
 # Tomat-Oh No!
 
-A trivia + boss-fight hybrid built in Unity 6. Answer questions correctly to damage the boss; answer wrong and the boss heals while bullets come flying at you. Built for CISC 226 (Game Development).
+**A Bullet Hell Trivia Game** built in Unity 6 for CISC 226. Step onto the right answer tile to damage the boss; answer wrong and the boss heals while bullets come flying at you.
+
+![Title screen](docs/screenshot.png)
 
 ## Play it
 
@@ -9,8 +11,11 @@ Grab the latest Windows build from the [Releases page](../../releases/latest), u
 ## Controls
 
 - **Move** — WASD / Arrow keys
-- **Select answer** — walk onto the answer tile
-- (Update this section once you've confirmed the controls in `Assets/Scripts/PlayerController.cs`)
+- **Select answer** — walk onto the A / B / C / D tile
+- **Pause** — `P`
+- **Reset** — Reset button in the bottom-right HUD
+
+You have **5 HP** (hearts in the top-left). The boss has **10 HP** (bar in the top-right). Each question has a **12-second timer**.
 
 ## How it works
 
@@ -42,13 +47,17 @@ Core scripts live in [Assets/Scripts/](Assets/Scripts/):
    git clone https://github.com/davidyang02/Tomat-Oh-No.git
    ```
 3. In Unity Hub, **Add project from disk** and pick the cloned folder.
-4. Open `Assets/Scenes/SampleScene.unity` and press Play.
+4. Open `Assets/GameScene.unity` and press Play.
 
 ## Credits
 
 - Code, design, and game logic: David Yang
-- Background music / SFX: third-party assets (see `Assets/Resources/`) — replace this section with proper attribution before sharing widely.
+- Background music: ["Monument" (Your Game Comedy)](https://pixabay.com/users/monument_music-34040748/) by Monument_Music on Pixabay — used under the [Pixabay Content License](https://pixabay.com/service/license-summary/)
+- Sound effects: free assets via Pixabay (Pixabay Content License)
+- Font: [Liberation Sans](https://github.com/liberationfonts/liberation-fonts) (SIL Open Font License) — bundled with TextMesh Pro
 
 ## License
 
-[MIT](LICENSE) — code is free to use, modify, and redistribute. Note that bundled audio/art assets may be under different licenses; check `Assets/Resources/` and the asset source before reusing them.
+The **code** in this repo (everything under `Assets/Scripts/` and `Assets/Editor/`) is released under the [MIT License](LICENSE).
+
+The **bundled audio and art assets** in `Assets/Resources/` and `Assets/TextMesh Pro/` are third-party content under their own licenses (mostly Pixabay Content License, plus the SIL OFL for Liberation Sans). They are redistributable for game use, but if you reuse them in another project please check the original source.
